@@ -7,8 +7,6 @@ Programmer: Paul Xiong
 	
 Date: June 14, 2024
 
-Course Code: ICS4U1-01 - Mr. Fernandes
-
 Title: Final Summative Project - PassLock
 
 Description: This Java Swing application is a comprehensive password manager designed to securely store and manage multiple accounts and their associated passwords.
